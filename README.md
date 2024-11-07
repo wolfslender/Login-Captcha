@@ -45,7 +45,7 @@ Adds Google reCAPTCHA v2 verification to your WordPress login form for enhanced 
 
 ### Author:
 Alexis Olivero
-Website: https://www.olivero.com/
+Website: https://www.oliverodev.com/
 
 ### License:
 GPL v2 or later
