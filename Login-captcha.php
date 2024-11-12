@@ -5,7 +5,7 @@ Plugin URI: https://www.olivero.com/
 Description: Añade reCAPTCHA v2 al formulario de login de WordPress
 Version: 1.0
 Author: Alexis Olivero
-Author URI: https://www.olivero.com/
+Author URI: https://www.oliverodev.com/
 */
 
 if (!defined('ABSPATH')) {
