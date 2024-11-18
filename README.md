@@ -1,4 +1,6 @@
 # WordPress Plugins Collection
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwolfslender%2FLogin-Captcha.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwolfslender%2FLogin-Captcha?ref=badge_shield)
+
 
 This repository contains two WordPress plugins for enhanced security and media management:
 
@@ -49,3 +51,6 @@ Website: https://www.oliverodev.com/
 
 ### License:
 GPL v2 or later
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwolfslender%2FLogin-Captcha.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwolfslender%2FLogin-Captcha?ref=badge_large)
